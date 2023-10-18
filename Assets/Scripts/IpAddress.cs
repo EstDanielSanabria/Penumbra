@@ -9,7 +9,6 @@ public class IpAddress : MonoBehaviour
 {
     void Awake()
     {
-
         string ipv4Address = string.Empty;
 
         // Obtiene todas las interfaces de red disponibles
